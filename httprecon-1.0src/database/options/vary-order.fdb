@@ -1,0 +1,22 @@
+Apache 1.3.34;Accept-Encoding,User-Agent
+Apache 2.3.0;Accept-Encoding
+lighttpd 1.4.18;Accept-Encoding,Cookie
+Apache 2.2.4;User-Agent
+Apache 2.0.54;Accept-Encoding
+Microsoft IIS 6.0;Accept-Encoding
+nginx 0.5.33;Accept-Encoding
+Apache 2.0.54;negotiate,accept-language
+Oracle Application Server 10g 10.1.2.2.0;Host
+Roxen 4.5.145;Cookie,User-Agent
+Zeus 4.3;Accept-Encoding
+Roxen 4.5.111;Cookie,User-Agent
+Apache 1.3.37;Host
+Apache 2.0.52;Accept-Encoding,User-Agent
+Zope 2.8.4;Accept-Encoding
+Zope 2.9.6;Accept-Encoding
+Apache 2.0.55;Accept-Encoding
+Apache 2.0.46;Accept-Encoding
+Apache 2.0.54;User-Agent
+Zope 2.9.6;Accept-Encoding,User-Agent
+Mongrel 1.0;Accept-Encoding
+Apache 2.2.2;Accept-Encoding

@@ -1,0 +1,284 @@
+Microsoft IIS 6.0;0
+Apache 1.3.34;0
+Apache 2.2.3;0
+Microsoft IIS 7.0;0
+Apache 2.3.0;22
+eMule 0.48a;0
+lighttpd 1.4.18;0
+Microsoft IIS 6.0;18
+Apache 2.0.52;0
+Microsoft IIS 5.0;0
+Apache 2.0.54;0
+Apache 1.3.37;0
+Apache 2.0.46;0
+Apache 1.3.26;23
+Caudium 1.4.9;0
+Apache 2.2.3;27
+Cherokee 0.6.0;0
+Oversee Webserver 1.3.18;0
+Zope 2.7.4;0
+lighttpd 1.4.18;34
+Apache 2.2.4;25
+Apache 1.3.26;21
+Apache 1.3.33;0
+Apache 1.3.12;21
+Apache 2.0.52;23
+Microsoft IIS 6.0;19
+Apache 1.3.37;22
+Apache 1.3.37;24
+Apache 2.0.55;0
+Apache 2.2.4;0
+Apache 1.3.27;19
+Apache 2.0.54;22
+Apache 2.0.54;20
+Apache 1.3.37;20
+lighttpd 1.4.18;12
+Apache 1.3.26;0
+Apache 2.0.59;0
+Apache 2.2.0;20
+Google Web Server 2.1;0
+Microsoft IIS 6.0;20
+Microsoft IIS 6.0;21
+Apache 2.2.6;25
+Apache 1.3.26;20
+Zope 2.7.9;0
+Apache 1.3.33;22
+Apache 1.3.33;21
+Apache 1.3.37;21
+Apache 2.0.52;19
+Apache 2.0.52;27
+Apache 2.0.46;22
+Microsoft IIS 6.0;23
+Netscape Enterprise Server 4.1;26
+Apache 2.0.45;0
+Apache 1.3.28;0
+Netgear RP114 3.26;0
+4D WebSTAR 5.4.0;0
+Apache 2.0.52;22
+Jetty 6.1.1;0
+Apache 1.3.34;22
+Sun ONE Web Server 6.1;0
+Sun Java System Web Server 7.0;0
+Netscape Enterprise Server 6.0;0
+Microsoft IIS 5.0;22
+nginx 0.5.33;0
+Apache 1.3.27;20
+Apache 2.2.4;20
+Apache 1.3.39;19
+Apache 2.2.3;21
+Apache 2.0.54;23
+Apache 1.2.6;21
+Zope 2.8.6;0
+Zope 2.7.5;0
+Zope 2.9.2;0
+Zope 2.9.5;0
+Apache 2.2.6;20
+Apache 2.2.2;0
+Sun Java System Web Server 6.1;0
+Oracle Application Server 10g 10.1.2.2.0;27
+AOLserver 4.0.10;0
+Abyss 2.5.0.0 X2;0
+Abyss 2.4.0.3 X2;0
+Abyss 2.5.0.0 X1;0
+Abyss 2.0.0.20 X2;0
+Abyss 2.5.0.0 X2;32
+and-httpd 0.99.11;22
+firecat 1.0.0 Beta;0
+Gatling 0.9;0
+Hiawatha 6.2;0
+publicfile;0
+Roxen 4.5.145;34
+Zeus 4.41;34
+Zeus 4.3;0
+Roxen 4.5.111;34
+Roxen 2.2.213;0
+Apache 1.3.37;23
+Apache 1.3.27;22
+Virtuoso 5.0.3;34
+WEBrick 1.3.1;20
+Yaws 1.72;0
+LiteSpeed Web Server 3.3;0
+IceWarp 8.3.0;0
+SonicWALL CSM 3200 2.6.0.0;0
+Anti-Web HTTPD 3.0.7;0
+Indy IdHTTPServer 9.00.10;0
+WDaemon 9.6.1;0
+Apache 2.2.4;22
+Sun ONE Web Server 6.1;15
+Apache 2.0.52;13
+Apache 1.3.39;22
+Zope 2.6.0;0
+SWAT 3.0.24;0
+Apache 1.3.29;0
+Zope 2.9.3;0
+Zope 2.5.0;0
+Zope 2.7.6;0
+Zope 2.8.2;0
+Zope 2.8.4;0
+Zope 2.9.6;0
+Apache 2.2.3;28
+Zope 2.6.1;0
+Zope 2.7.8;0
+Zope 2.10.4;0
+Zope 2.7.7;0
+Zope 2.9.8;0
+Zope 2.6.4;0
+Netscape Enterprise Server 3.5.1;17
+Apache 2.0.53;0
+Squid 2.5.STABLE5;0
+Squid 2.5.STABLE9;0
+Squid 2.5.STABLE6;0
+Apache 2.2.6;0
+Squid 2.6.STABLE13;0
+Squid 2.6.STABLE4;0
+Squid 2.6.STABLE7;0
+Apache 2.0.58;0
+Jigsaw 2.3.0-beta1;18
+Apache 1.3.39;0
+Apache 2.2.3;23
+Apache 2.0.50;0
+UserLand Frontier 9.0.1;0
+UserLand Frontier 9.5;0
+Zope 2.8.0;0
+Zope 2.9.8;34
+nginx 0.5.30;0
+Zope 2.9.7;0
+Apache 2.2.2;14
+Zope 2.9.6;34
+IBM HTTP Server 6.0.2.19;0
+Sun ONE Web Server 6.1;13
+Netscape Enterprise Server 4.1;0
+nginx 0.5.32;0
+nginx 0.6.20;0
+Mongrel 1.0;0
+Oracle Application Server 10g 10.1.2.0.2;0
+Oracle Application Server 10g 10.1.2.0.0;30
+Apache 1.3.33;23
+Apache 2.0.49;19
+WN Server 2.4.7;0
+Apache 2.0.51;0
+Resin 2.1.17;0
+TclHttpd 3.5.1;0
+Apache 1.3.29;22
+lighttpd 1.4.18;22
+Apache 1.3.27;24
+Snap Appliance 4.0.860;0
+Snap Appliance 3.1.603;0
+Snap Appliance 3.4.803;0
+Snap Appliance 4.0.830;0
+Snap Appliance 3.4.805;0
+Snap Appliance 4.0.854;0
+OmniHTTPd 2.10;0
+OmniHTTPd 2.09;0
+OmniHTTPd 2.06;0
+4D WebSTAR 2.0;0
+4D WebSTAR 4.5;0
+4D WebSTAR 2.1.1;0
+4D WebSTAR 3.0.2;0
+BadBlue 2.4;22
+BadBlue 2.7;0
+BadBlue 2.6;22
+Yaws 1.65;13
+Yaws 1.68;0
+thttpd 2.23beta1;0
+AXIS 2400 Video Server;0
+Zyxel P-660R-D3 RomPager 4.51;0
+Zyxel P-2602HW-D1A RomPager 4.51;0
+Zyxel P-662HW-D1 RomPager 4.51;0
+Zyxel P-661H-D1 RomPager 4.51;0
+Sony SNC-RZ30 NetEVI 3.03;0
+Sony SNC-RZ30 NetEVI 2.24;0
+Sony SNC-RZ30 NetEVI 3.01;0
+Sony SNC-RZ30 NetEVI 2.06;0
+Sony SNC-RZ30 NetEVI 3.10;0
+Sony SNC-RZ30 NetEVI 2.05;0
+Sony SNC-RZ30 NetEVI 3.14;0
+Sony SNC-RZ30 NetEVI 1.09;0
+Sony SNC-RZ30 NetEVI 3.02;0
+Sony SNC-RZ30 NetEVI 2.13;0
+Sony SNC-RZ30 NetEVI 2.05g;0
+Sony SNC-RZ30 NetEVI 2.14;0
+Sony SNC-RZ30 NetEVI 3.10a;0
+FlexWATCH FW-3440-B;0
+Sony SNC-Z20 NetZoom 1.00;0
+thttpd 2.19-MX;0
+webcamXP PRO 2007 3.96.000 beta;0
+webcamXP PRO 2007 3.60.220;0
+webcamXP PRO 2006 2.37.144;0
+webcamXP PRO 2006 2.20.024;0
+webcamXP PRO 2007 3.72.440;0
+webcamXP PRO 2006 2.16.456x BETA;0
+Apache 2.0.59;21
+Konica IP-421/7020 Allegro RomPager 2.00;0
+Net2Phone Rapid Logic 1.1;0
+LANCOM DSL/I-1611 6.26.0022;0
+LANCOM DSL/I-10 3.58.0006;0
+LANCOM DSL/I-1611 6.02.0008;0
+LANCOM DSL/I-1611 5.06.0005;0
+LANCOM DSL/I-1611 6.32.0021;0
+LANCOM DSL/I-1611 6.24.0012;0
+LANCOM DSL/I-1611 4.02.0003;0
+LANCOM DSL/I-1611 6.06.0012;0
+LANCOM DSL/I-1611 4.12.0031;0
+QNAP NAS-2108R 2.27.1024;0
+QNAP NAS-4010 4.2.0.0606;0
+QNAP NAS-4100 2.26.0517;0
+QNAP TS-40IT Turbo Server 1.1.0.0425;0
+QNAP GNS-8000A 4.1.4.0118;0
+QNAP TS-101 Turbo Station 1.2.0.0629;0
+thttpd 2.20b;0
+QNAP TS-209 1.1.3.1101T;0
+QNAP TS-411U 1.2.0.0531;0
+QNAP TS-209 1.1.1.0831T;0
+QNAP TS-101 2.1.0.612T;0
+QNAP TS-109 1.1.3.1101T;0
+QNAP TS-101 2.0.1.0302;0
+QNAP TS-109 1.1.2.1009T;0
+Cisco VPN 3000 Concentrator Virata EmWeb R6.2.0;0
+Netopia Router Allegro RomPager 2.10;0
+Ricoh Aficio 1022 Web-Server 3.0;0
+Ricoh Aficio 6002 3.53.3 Web-Server 3.0;0
+Ricoh Aficio 1060 3.53.3 Web-Server 3.0;0
+Ricoh Aficio 1045 5.23 Web-Server 3.0;0
+Linksys WVC54GC Boa 0.94.13;0
+Barracuda Networks Spam Firewall;0
+Belkin Router 2.00.002;0
+Symantec Mail Security for SMTP;0
+Zyxel Prestige 662H-61 RomPager 4.07;0
+Zyxel  ZyWALL 10W RomPager 4.07;0
+Apache 1.3.27;17
+Zyxel Prestige 662H-63/67 RomPager 4.07;0
+dwhttpd 4.2a7;0
+dwhttpd 4.0.2a7a;0
+dwhttpd 4.1a6;0
+4D WebSTAR 4.2;0
+Apache 1.3.33;30
+SnapStream Digital Video Recorder;0
+Xerox DocuPrint N4025 Allegro RomPager 3.06b1;0
+Apache 1.3.17;17
+Apache 2.0.49;0
+Dell 1710n;0
+Dell M5200;0
+Dell 3232;0
+Lexmark C750;0
+Lexmark T630;0
+PacketShaper httpd 1.00;0
+Tandberg Videoconference Management;0
+NetBotz 500 thttpd 2.25b;0
+WallBotz 500 thttpd 2.25b;0
+NetBotz 420 thttpd 2.25b;0
+NetBotz 320 thttpd 2.25b;0
+Philips NetCam 1.2.7 wg_httpd 1.0;0
+Philips NetCam 1.4.23 wg_httpd 1.0;0
+Philips NetCam 1.4.8 wg_httpd 1.0;0
+Philips NetCam 1.2.6 wg_httpd 1.0;0
+Boa 0.93.15;0
+Lexmark Optra S 1255;0
+Lexmark E323;0
+Boa 0.92o;0
+Apache 1.3.27;0
+Divar 1.10.538.0;0
+Divar 1.00;0
+Divar 1.12.649.0;0
+Divar 1.11.626.0;0
+fnord 1.8a;0

@@ -1,0 +1,39 @@
+Cherokee 0.6.0;no-cache
+Apache 2.2.3;max-age=173
+Apache 2.2.3;no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Apache 2.0.59;no-cache,no-store,max-age=0
+Apache 1.3.37;private, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Jetty 6.1.1;max-age=0, no-store
+Sun Java System Web Server 7.0;public, max-age=1780
+Sun Java System Web Server 7.0;public, max-age=1800
+Microsoft IIS 5.0;max-age=900
+AOLserver 4.0.10;no-cache, no-store, private, max-age=0
+and-httpd 0.99.11;max-age=691200
+firecat 1.0.0 Beta;private
+LiteSpeed Web Server 3.3;no-store, no-cache, must-revalidate
+Sun ONE Web Server 6.1;max-age=7699
+Apache 2.2.4;no-cache, no-store, max-age=0, must-revalidate
+Zope 2.5.0;max-age=3600
+Zope 2.8.4;max-age=3600
+Zope 2.10.4;max-age=10
+nginx 0.5.32;max-age=0, no-cache, no-store
+nginx 0.6.20;no-cache
+Oracle Application Server 10g 10.1.2.0.2;no-cache, max-age=0, must-revalidate, proxy-mustcheck
+FlexWATCH FW-3440-B;no-cache
+webcamXP PRO 2007 3.96.000 beta;no-cache, must revalidate
+webcamXP PRO 2007 3.60.220;no-cache, must revalidate
+webcamXP PRO 2006 2.37.144;no-cache, must revalidate
+webcamXP PRO 2006 2.20.024;no-cache, must revalidate
+webcamXP PRO 2007 3.72.440;no-cache, must revalidate
+webcamXP PRO 2006 2.16.456x BETA;no-cache, must revalidate
+Cisco VPN 3000 Concentrator Virata EmWeb R6.2.0;no-cache
+Ricoh Aficio 1022 Web-Server 3.0;no-cache
+Ricoh Aficio 6002 3.53.3 Web-Server 3.0;no-cache
+Ricoh Aficio 1060 3.53.3 Web-Server 3.0;no-cache
+Ricoh Aficio 1045 5.23 Web-Server 3.0;no-cache
+Barracuda Networks Spam Firewall;no-cache,no-store
+PacketShaper httpd 1.00;no-cache
+NetBotz 500 thttpd 2.25b;no-cache,no-store
+WallBotz 500 thttpd 2.25b;no-cache,no-store
+NetBotz 420 thttpd 2.25b;no-cache,no-store
+NetBotz 320 thttpd 2.25b;no-cache,no-store
