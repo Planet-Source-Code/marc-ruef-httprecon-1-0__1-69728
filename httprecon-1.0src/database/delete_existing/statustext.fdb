@@ -1,0 +1,245 @@
+Microsoft IIS 6.0;Not Implemented
+Apache 1.3.34;OK
+Microsoft IIS 7.0;Not Found
+Apache 2.3.0;Method Not Allowed
+eMule 0.48a;OK
+lighttpd 1.4.18;OK
+Apache 2.0.52;Method Not Allowed
+Apache 1.3.37;Forbidden
+Apache 1.3.37;OK
+Apache 1.3.26;Method Not Allowed
+Microsoft IIS 6.0;Object Not Found
+Caudium 1.4.9;No such file or directory.
+Apache 2.2.3;Method Not Allowed
+Cherokee 0.6.0;Method Not Allowed
+Oversee Webserver 1.3.18;OK
+Zope 2.7.4;Service Unavailable
+Apache 2.2.4;Method Not Allowed
+Apache 1.3.33;OK
+Apache 1.3.12;Method Not Allowed
+Apache 1.3.33;Method Not Allowed
+Apache 2.0.54;OK
+Apache 2.0.54;Not Implemented
+Apache 2.0.46;Method Not Allowed
+Apache 2.0.55;Method Not Allowed
+Apache 2.2.4;OK
+Apache 1.3.27;Method Not Allowed
+Apache 2.0.54;Method Not Allowed
+Apache 2.0.52;OK
+Apache 2.2.3;OK
+Apache 1.3.37;Method Not Allowed
+lighttpd 1.4.18;Forbidden
+Microsoft IIS 6.0;OK
+Apache 1.3.26;OK
+Microsoft IIS 6.0;Forbidden
+Apache 2.2.0;Method Not Allowed
+Google Web Server 2.1;Bad Request
+Apache 2.2.6;Method Not Allowed
+Microsoft IIS 6.0;Not Found
+Zope 2.7.9;Unauthorized
+Apache 1.3.33;Internal Server Error
+Apache 1.3.28;Not Implemented
+Netgear RP114 3.26;Method Not Allowed
+Apache 2.0.59;OK
+4D WebSTAR 5.4.0;Method Not Allowed
+Apache 1.3.37;Not Found
+Jetty 6.1.1;Http_method_DELETE_is_not_supported_by_this_URL
+Microsoft IIS 6.0;Access denied
+Apache 1.3.34;Method Not Allowed
+Sun ONE Web Server 6.1;Unauthorized
+Sun Java System Web Server 7.0;Not Implemented
+Apache 2.0.46;OK
+Netscape Enterprise Server 6.0;Unauthorized
+nginx 0.5.33;OK
+Apache 1.2.6;Method Not Allowed
+Zope 2.8.6;Unauthorized
+Zope 2.7.5;Unauthorized
+Zope 2.9.5;Unauthorized
+Sun Java System Web Server 6.1;Unauthorized
+Apache 2.2.2;Method Not Allowed
+Apache 2.2.6;Forbidden
+AOLserver 4.0.10;Not Found
+Abyss 2.4.0.3 X2;OK
+Abyss 2.5.0.0 X2;OK
+Abyss 2.5.0.0 X1;Method Not Allowed
+Abyss 2.0.0.20 X2;OK
+Abyss 2.5.0.0 X2;Method Not Allowed
+Abyss 2.5.0.0 X1;OK
+and-httpd 0.99.11;Method Not Allowed
+Gatling 0.9;Invalid Request
+Hiawatha 6.2;Not Implemented
+publicfile;method not implemented
+Roxen 4.5.145;Method Not Allowed
+Zeus 4.41;Method Not Allowed
+Zeus 4.3;Not Implemented
+Roxen 4.5.111;Method Not Allowed
+Roxen 2.2.213;No such file or directory.
+Virtuoso 5.0.3;Unauthorized
+WEBrick 1.3.1;Method Not Allowed 
+Yaws 1.72;OK
+LiteSpeed Web Server 3.3;OK
+IceWarp 8.3.0;OK
+Anti-Web HTTPD 3.0.7;Moved Permanently
+WDaemon 9.6.1;Not Implemented
+Sun ONE Web Server 6.1;Not Implemented
+Apache 2.0.52;DELETE not supported
+Apache 1.3.39;Forbidden
+Zope 2.6.0;Unauthorized
+Apache 1.3.29;OK
+Zope 2.9.3;Unauthorized
+Zope 2.5.0;Unauthorized
+Zope 2.7.6;Unauthorized
+Zope 2.8.2;Unauthorized
+Zope 2.8.4;Unauthorized
+Zope 2.9.6;Unauthorized
+Apache 2.0.59;Unauthorized
+Zope 2.6.1;Unauthorized
+Zope 2.7.8;Unauthorized
+Zope 2.10.4;Unauthorized
+Zope 2.7.7;Internal Server Error
+Apache 2.0.55;OK
+Zope 2.9.8;Unauthorized
+Zope 2.6.4;Forbidden
+Netscape Enterprise Server 3.5.1;Unauthorized
+Squid 2.5.STABLE5;Bad Request
+Squid 2.5.STABLE9;Bad Request
+Squid 2.5.STABLE6;Bad Request
+Apache 2.2.6;OK
+Squid 2.6.STABLE13;Bad Request
+Squid 2.6.STABLE4;Forbidden
+Squid 2.6.STABLE7;Forbidden
+Apache 2.0.58;OK
+Jigsaw 2.3.0-beta1;Method Not Allowed
+Apache 2.0.50;Method Not Allowed
+UserLand Frontier 9.0.1;OK
+UserLand Frontier 9.5;OK
+Zope 2.8.0;Unauthorized
+Apache 1.3.29;Internal Server Error
+nginx 0.5.30;Unauthorized
+Zope 2.7.4;Unauthorized
+IBM HTTP Server 6.0.2.19;Method DELETE is disabled on this server.
+nginx 0.5.32;Not Implemented
+Mongrel 1.0;OK
+Oracle Application Server 10g 10.1.2.0.2;Method Not Allowed
+Oracle Application Server 10g 10.1.2.0.0;Method Not Allowed
+Apache 2.0.49;Method Not Allowed
+WN Server 2.4.7;Method not allowed
+Apache 2.0.51;OK
+Resin 2.1.17;DELETE not supported
+TclHttpd 3.5.1;Data follows
+Apache 2.2.2;OK
+Apache 1.3.29;Forbidden
+Apache 2.0.58;Method Not Allowed
+Snap Appliance 4.0.860;Not Implemented
+Snap Appliance 3.1.603;Not Implemented
+Snap Appliance 3.4.803;Not Implemented
+Snap Appliance 4.0.830;Not Implemented
+Snap Appliance 3.4.805;Not Implemented
+Snap Appliance 4.0.854;Not Implemented
+OmniHTTPd 2.10;Access Denied
+OmniHTTPd 2.10;Forbidden
+OmniHTTPd 2.09;Access Denied
+OmniHTTPd 2.06;Access Denied
+4D WebSTAR 2.0;OK
+4D WebSTAR 2.1.1;Method Not Allowed
+4D WebSTAR 3.0.2;Method Not Allowed
+BadBlue 2.4;Not found
+BadBlue 2.7;Not found
+BadBlue 2.6;Not found
+Yaws 1.65;OK
+Yaws 1.68;OK
+thttpd 2.23beta1;OK
+Zyxel P-660R-D3 RomPager 4.51;Not Found
+Zyxel P-2602HW-D1A RomPager 4.51;OK
+Zyxel P-662HW-D1 RomPager 4.51;OK
+Zyxel P-661H-D1 RomPager 4.51;OK
+Sony SNC-RZ30 NetEVI 3.03;Method Not Allowed
+Sony SNC-RZ30 NetEVI 2.24;Method Not Allowed
+Sony SNC-RZ30 NetEVI 3.01;Method Not Allowed
+Sony SNC-RZ30 NetEVI 2.06;Method Not Allowed
+Sony SNC-RZ30 NetEVI 3.10;Method Not Allowed
+Sony SNC-RZ30 NetEVI 2.05;Method Not Allowed
+Sony SNC-RZ30 NetEVI 3.14;Method Not Allowed
+Sony SNC-RZ30 NetEVI 1.09;Method Not Allowed
+Sony SNC-RZ30 NetEVI 3.02;Method Not Allowed
+Sony SNC-RZ30 NetEVI 2.13;Method Not Allowed
+Sony SNC-RZ30 NetEVI 2.05g;Method Not Allowed
+Sony SNC-RZ30 NetEVI 2.14;Method Not Allowed
+Sony SNC-RZ30 NetEVI 3.10a;Method Not Allowed
+FlexWATCH FW-3440-B;Page not found
+Sony SNC-Z20 NetZoom 1.00;Method Not Allowed
+thttpd 2.19-MX;Not Implemented
+webcamXP PRO 2007 3.96.000 beta;OK
+webcamXP PRO 2007 3.60.220;OK
+webcamXP PRO 2006 2.37.144;OK
+webcamXP PRO 2006 2.20.024;OK
+webcamXP PRO 2007 3.72.440;OK
+webcamXP PRO 2006 2.16.456x BETA;OK
+Apache 2.0.59;Method Not Allowed
+Konica IP-421/7020 Allegro RomPager 2.00;BadRequest
+Net2Phone Rapid Logic 1.1;Not Implemented
+LANCOM DSL/I-1611 6.26.0022;OK
+LANCOM DSL/I-10 3.58.0006;OK
+LANCOM DSL/I-1611 6.02.0008;OK
+LANCOM DSL/I-1611 5.06.0005;OK
+LANCOM DSL/I-1611 6.32.0021;OK
+LANCOM DSL/I-1611 6.24.0012;OK
+LANCOM DSL/I-1611 4.02.0003;OK
+LANCOM DSL/I-1611 6.06.0012;OK
+LANCOM DSL/I-1611 4.12.0031;OK
+QNAP NAS-2108R 2.27.1024;Not Implemented
+QNAP NAS-4010 4.2.0.0606;Not Implemented
+QNAP NAS-4100 2.26.0517;Not Implemented
+QNAP TS-40IT Turbo Server 1.1.0.0425;Not Implemented
+QNAP GNS-8000A 4.1.4.0118;Not Implemented
+QNAP TS-101 Turbo Station 1.2.0.0629;Not Implemented
+thttpd 2.20b;Not Implemented
+QNAP TS-209 1.1.3.1101T;Not Implemented
+QNAP TS-411U 1.2.0.0531;Not Implemented
+QNAP TS-209 1.1.1.0831T;Not Implemented
+QNAP TS-101 2.1.0.612T;Not Implemented
+QNAP TS-109 1.1.3.1101T;Not Implemented
+QNAP TS-101 2.0.1.0302;Not Implemented
+QNAP TS-109 1.1.2.1009T;Not Implemented
+Cisco VPN 3000 Concentrator Virata EmWeb R6.2.0;Method Not Allowed
+Netopia Router Allegro RomPager 2.10;Method Not Allowed
+Ricoh Aficio 1022 Web-Server 3.0;OK
+Ricoh Aficio 6002 3.53.3 Web-Server 3.0;OK
+Ricoh Aficio 1060 3.53.3 Web-Server 3.0;OK
+Ricoh Aficio 1045 5.23 Web-Server 3.0;OK
+Linksys WVC54GC Boa 0.94.13;Not Implemented
+Barracuda Networks Spam Firewall;Not Implemented
+Belkin Router 2.00.002;Bad Request
+Zyxel Prestige 662H-61 RomPager 4.07;Method Not Allowed
+Zyxel  ZyWALL 10W RomPager 4.07;Method Not Allowed
+Zyxel Prestige 662H-63/67 RomPager 4.07;Method Not Allowed
+SnapStream Digital Video Recorder;OK
+Apache 2.0.55;Forbidden
+Xerox DocuPrint N4025 Allegro RomPager 3.06b1;Method Not Allowed
+Apache 1.3.17;Method Not Allowed
+Apache 2.0.49;OK
+Dell 1710n;Method Not Allowed
+Dell M5200;Method Not Allowed
+Dell 3232;Method Not Allowed
+Lexmark C750;Method Not Allowed
+Lexmark T630;Method Not Allowed
+PacketShaper httpd 1.00;Not Implemented
+Tandberg Videoconference Management;Not Implemented
+NetBotz 500 thttpd 2.25b;Not Implemented
+WallBotz 500 thttpd 2.25b;Not Implemented
+NetBotz 420 thttpd 2.25b;Not Implemented
+NetBotz 320 thttpd 2.25b;Not Implemented
+Philips NetCam 1.2.7 wg_httpd 1.0;Bad Request
+Philips NetCam 1.4.23 wg_httpd 1.0;Bad Request
+Philips NetCam 1.4.8 wg_httpd 1.0;Bad Request
+Philips NetCam 1.2.6 wg_httpd 1.0;Bad Request
+Boa 0.93.15;Bad Request
+Lexmark Optra S 1255;Method Not Allowed
+Lexmark E323;Method Not Allowed
+Boa 0.92o;Bad Request
+Apache 1.3.27;OK
+Divar 1.10.538.0;Method Not Allowed
+Divar 1.00;Method Not Allowed
+Divar 1.12.649.0;Method Not Allowed
+Divar 1.11.626.0;Method Not Allowed
+fnord 1.8a;Bad Request

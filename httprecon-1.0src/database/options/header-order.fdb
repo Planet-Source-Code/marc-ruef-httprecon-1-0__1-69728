@@ -1,0 +1,289 @@
+Microsoft IIS 6.0;Allow,Content-Length,Server,Public,Date
+Apache 1.3.34;Date,Server,Expires,Connection,Transfer-Encoding,Content-Type
+Apache 1.3.34;Date,Server,Pragma,Cache-control,Expires,Content-Type,Via,Vary,Transfer-Encoding
+Microsoft IIS 7.0;Cache-Control,Pragma,Content-Type,Expires,Server,X-AspNet-Version,P3P,X-Powered-By,Date,Content-Length
+Apache 2.3.0;Date,Server,Allow,Cache-Control,Expires,Vary,Content-Length,Keep-Alive,Connection,Content-Type
+Microsoft IIS 6.0;Allow,Content-Length,Server,Public,X-Powered-By,Date
+eMule 0.48a;Server,Connection,Content-Type,Content-Length
+lighttpd 1.4.18;Transfer-Encoding,X-Pingback,Content-type,Date,Server
+Apache 2.0.52;Date,Server,Allow,Content-Length,Connection,Content-Type
+Microsoft IIS 6.0;Allow,Content-Length,Server,Public,X-Powered-By,P3P,X-Powered-By,Date
+Apache 1.3.37;Date,Server,X-Powered-By,Last-Modified,Content-language,Connection,Transfer-Encoding,Content-Type
+Apache 1.3.26;Date,Server,Content-Length,Allow,Connection
+Microsoft IIS 6.0;Server,Date,Connection,Content-Type,Content-Length
+Caudium 1.4.9;Date,Accept-Ranges,Content-Length,X-Got-Fish,Content-Type,MIME-Version,Server,Connection
+Apache 2.2.3;Date,Server,Allow,Content-Length,Keep-Alive,Connection,Content-Type
+Cherokee 0.6.0;Connection,Date,Server,Allow,Content-Type,Content-Length,Cache-Control,Pragma,P3P
+Oversee Webserver 1.3.18;Date,Server,Keep-Alive,Connection,Transfer-Encoding,Content-Type
+Zope 2.7.4;Server,Mime-Version,Date,Content-Type,Content-Length,Expires,X-Squid-Error,X-Cache,X-Cache,Connection
+lighttpd 1.4.18;Transfer-Encoding,Content-Type,Content-Size,Last-Modified,Expires,Cache-Control,Vary,ETag,Date,Server
+Apache 2.2.4;Date,Server,Vary,Allow,Content-Length,Connection,Content-Type
+Apache 1.3.26;Date,Server,Content-Length,Allow,Keep-Alive,Connection
+Apache 1.3.33;Date,Server,X-Powered-By,Keep-Alive,Connection,Transfer-Encoding,Content-Type
+Apache 1.3.12;Date,Server,Content-Length,Allow,Keep-Alive,Connection
+Apache 1.3.33;Date,Server,Content-Length,Allow,Keep-Alive,Connection
+Apache 2.0.54;Date,Server,X-Powered-By,Set-Cookie,Expires,Cache-Control,Pragma,Vary,Content-Type,X-Cache,Via,Connection
+Apache 2.0.54;Content-Type,Content-Length
+Apache 2.0.46;Date,Server,Allow,Content-Length,Connection,Content-Type
+Apache 2.0.52;Date,Server,Allow,Content-Length,Keep-Alive,Connection,Content-Type
+Apache 1.3.37;Date,Server,Content-Length,Allow,Keep-Alive,Connection
+Apache 2.0.55;Date,Server,Allow,Keep-Alive,Connection,Transfer-Encoding,Content-Type
+Apache 2.2.4;Date,Server,X-Powered-By,Keep-Alive,Connection,Transfer-Encoding,Content-Type
+Apache 1.3.27;Date,Server,Content-Length,Allow,Keep-Alive,Connection
+Apache 2.0.54;Date,Server,Allow,Keep-Alive,Connection,Transfer-Encoding,Content-Type
+Apache 2.0.55;Date,Server,Keep-Alive,Connection,Transfer-Encoding,Content-Type,X-Pad
+Apache 2.0.54;Date,Server,Allow,Keep-Alive,Connection,Transfer-Encoding,Content-Type,X-Pad
+Apache 2.0.52;Date,Server,Content-Length,Connection,Content-Type
+Apache 2.2.3;Date,Server,X-Powered-By,Expires,Cache-Control,Pragma,Content-Type,X-Cache,X-Cache-Lookup,Via,Connection
+Apache 1.3.34;Date,Server,Keep-Alive,Connection,Transfer-Encoding,Content-Type
+lighttpd 1.4.18;Allow,Content-Length,Date,Server
+Apache 2.0.54;Date,Server,X-Powered-By,Content-Length,Keep-Alive,Connection,Content-Type
+Microsoft IIS 6.0;Allow,Content-Length,Server,Public,PICS-Label,Date
+Microsoft IIS 6.0;Date,Server,Set-Cookie,Set-Cookie,Set-Cookie,Set-Cookie,Pragma,Cache-Control,Cache-Control,Cache-Control,Last-Modified,Expires,Content-Type,Vary,Keep-Alive,Connection,Transfer-Encoding
+Apache 1.3.37;MIME-Version,Date,Connection,Content-Type
+Apache 1.3.33;Server,MIME-Version,Content-type,X-Country,Content-Length
+Apache 1.3.33;Date,Content-Length,Expires,Cache-Control,Server,Allow
+Apache 1.3.37;Date,Server,Expires,Cache-Control,Pragma,P3P,Set-Cookie,Set-Cookie,Keep-Alive,Connection,Transfer-Encoding,Content-Type
+Microsoft IIS 6.0;Content-Length,Content-Type,Server,Date
+Apache 1.3.37;Date,Server,X-Powered-By,Keep-Alive,Connection,Transfer-Encoding,Content-Type
+Apache 2.2.0;Date,Server,Allow,Content-Length,Keep-Alive,Connection,Content-Type
+Google Web Server 2.1;Date,Content-Type,Server,Content-Length
+Microsoft IIS 6.0;Allow,Content-Length,Server,Public,MS-Author-Via,MicrosoftOfficeWebServer,Date
+Microsoft IIS 6.0;Date,Allow,Content-Length,Server,Public,p3p
+Apache 2.2.6;Date,Server,Allow,Content-Length,Keep-Alive,Connection,Content-Type,X-Pad
+Apache 2.0.46;Date,Server,Expires,Last-Modified,Cache-Control,Content-Type,Via,Connection
+Microsoft IIS 6.0;Content-Length,Content-Type,Server,Date,Connection
+Zope 2.7.9;Server,Date,Content-Length,DAV,Allow,Date,X-Cache,X-Cache-Lookup,Connection
+Apache 2.0.52;Date,Server,X-Powered-By,Content-Length,Connection,Content-Type
+Apache 2.0.46;Date,Server,Allow,Content-Length,Keep-Alive,Connection,Content-Type
+Apache 2.0.52;Date,Server,X-Powered-By,Content-Length,Keep-Alive,Connection,Content-Type
+Apache 1.3.28;Server,Mime-Version,Content-Type,Content-Length,Expires,Date,Connection
+Netgear RP114 3.26;Allow,Content-Length,Server
+Apache 2.0.59;Date,Server,X-Powered-By,Content-Length,Keep-Alive,Connection,Content-Type
+4D WebSTAR 5.4.0;Date,Server,Connection,Keep-Alive,Content-Length,Content-Type
+Apache 2.0.52;Date,Server,X-Powered-By,Expires,Last-Modified,Cache-Control,Pragma,Connection,Transfer-Encoding,Content-Type
+Jetty 6.1.1;Date,Server,Allow,Content-Length,Via,Content-Type
+Microsoft IIS 6.0;Date,Server,WWW-Authenticate,MicrosoftSharePointTeamServices,X-Powered-By,Content-type,X-MSDAVEXT_Error,Cache-Control,Connection,Set-Cookie,Proxy-support
+Microsoft IIS 6.0;Date,Allow,Server,Public,X-Powered-By,Content-Length,Connection
+Apache 1.3.34;Date,Server,Content-Length,Allow,Keep-Alive,Connection
+Sun ONE Web Server 6.1;Server,Date,Content-length,Allow
+Apache 2.0.52;Date,Server,X-Powered-By,Set-Cookie,Keep-Alive,Connection,Transfer-Encoding,Content-Type
+Sun Java System Web Server 7.0;Server,Mime-Version,Content-Type,Content-Length,Expires,Date,Connection
+Netscape Enterprise Server 6.0;Server,Date,Content-length,Content-type,WWW-authenticate
+Microsoft IIS 6.0;MIME-Version,Server,Date,Connection,Content-Type
+Apache 2.0.46;Date,Server,Allow,Content-Type,Set-Cookie,Content-Length,Connection,Via
+Apache 2.0.59;Date,Server,Content-Length,Keep-Alive,Connection,Content-Type
+nginx 0.5.33;Server,Date,Content-Type,Connection,Cache-Control,Content-Length,Vary,Via
+Apache 2.2.4;Date,Server,Allow,Content-Length,Keep-Alive,Connection,Content-Type
+Apache 2.0.54;Date,Server,Content-Location,Vary,TCN,Allow,Cache-Control,Expires,Keep-Alive,Connection,Transfer-Encoding,Content-Type,Content-Language
+Apache 1.2.6;Date,Server,Content-Length,Allow,Keep-Alive,Connection
+Zope 2.8.6;Date,Server,Content-Length,DAV,Allow,Connection,Content-Type
+Zope 2.7.5;Date,Server,Content-Length,DAV,Allow,Via,Content-Type
+Zope 2.9.5;Date,Server,Content-Length,DAV,Allow,Via,Content-Type
+Apache 2.0.54;Date,Server,X-Powered-By,Connection,Transfer-Encoding,Content-Type
+Sun Java System Web Server 6.1;Server,Date,Content-length,P3p,Allow
+Apache 2.0.46;Date,Server,Allow,Content-Length,Content-Type,X-Cache,Connection
+Apache 2.0.54;Date,Server,Allow,Content-Length,Connection,Content-Type
+Apache 2.2.2;Date,Server,Allow,Content-Length,Keep-Alive,Connection,Content-Type
+Microsoft IIS 6.0;Date,Server,X-Powered-By,MS-Author-Via,Content-Length,Accept-Ranges,DASL,DAV,Public,Allow,Cache-Control
+Microsoft IIS 6.0;Allow,Content-Length,Server,Public,X-Server,Date
+Oracle Application Server 10g 10.1.2.2.0;Set-Cookie,Cache-Control,Content-Type,Connection,Keep-Alive,Server,Content-Length,Date,Vary,Content-Location,Allow
+AOLserver 4.0.10;X-RSP,MIME-Version,Date,Server,Content-Type,Content-Length,Connection
+Abyss 2.4.0.3 X2;Content-type,X-Powered-By,Connection,Keep-Alive,Transfer-Encoding,Date,Server
+Abyss 2.5.0.0 X2;X-Powered-By,Content-type,Connection,Keep-Alive,Transfer-Encoding,Date,Server
+Abyss 2.4.0.3 X2;X-Powered-By,Content-type,Connection,Keep-Alive,Transfer-Encoding,Date,Server
+Abyss 2.5.0.0 X1;Connection,Keep-Alive,Transfer-Encoding,Date,Server,Allow
+Abyss 2.0.0.20 X2;X-Powered-By,Content-type,Connection,Keep-Alive,Transfer-Encoding,Date,Server
+Abyss 2.5.0.0 X2;Connection,Keep-Alive,Transfer-Encoding,Date,Server,Allow
+Abyss 2.5.0.0 X2;X-Powered-By,X-Toast-Powered,Content-type,Connection,Keep-Alive,Transfer-Encoding,Date,Server
+Abyss 2.5.0.0 X2;X-Powered-By,Set-Cookie,Content-type,Connection,Keep-Alive,Transfer-Encoding,Date,Server
+Abyss 2.5.0.0 X1;X-Powered-By,Content-type,Connection,Keep-Alive,Transfer-Encoding,Date,Server
+Abyss 2.4.0.3 X2;Content-Type,Connection,Keep-Alive,Transfer-Encoding,Date,Server,Cache-Control,Pragma
+Abyss 2.4.0.3 X2;X-Powered-By,Local-Time,Content-type,Connection,Keep-Alive,Transfer-Encoding,Date,Server
+and-httpd 0.99.11;Date,Server,Accept-Ranges,Content-Length,Allow
+Gatling 0.9;Content-Type,Connection,Server,Content-Length
+Hiawatha 6.2;Date,Server,Connection,Allow,Content-Length
+publicfile;Server,Date,Content-Length,Connection,Content-Type
+Roxen 4.5.145;Server,Vary,Accept-Ranges,Content-Length,Content-Type,Date,Connection
+Zeus 4.41;Server,Accept-Ranges,Content-Length,Date,Connection,Content-Type
+Zeus 4.3;Vary,Content-Length,Date,Connection,Server,Content-Type
+Roxen 4.5.111;Date,Server,P3P,Vary,Accept-Ranges,Content-Type,Content-Length,X-Cache,Connection
+Roxen 2.2.213;Server,Date,Accept-Ranges,Connection,Content-Length,Content-Type
+Apache 1.3.37;Date,Server,Vary,Content-Length,Allow,Keep-Alive,Connection
+Apache 1.3.27;Date,Server,Content-Length,Allow,Connection
+Virtuoso 5.0.3;Server,Connection,Date,Accept-Ranges,Content-Type,Allow,DAV,MS-Author-Via,Content-Length
+WEBrick 1.3.1;Content-Length,Allow,Server,Connection,Date
+Yaws 1.72;Server,Allow,Content-Length
+LiteSpeed Web Server 3.3;Transfer-Encoding,Date,Server,Connection,Expires,Last-Modified,Cache-Control,Cache-Control,Pragma,Content-type
+Apache 2.0.54;Date,Server,Allow,Content-Length,Keep-Alive,Connection,Content-Type
+IceWarp 8.3.0;Connection,Server,Date,Expires,Pragma,Content-Type,Last-Modified,Content-Language,Cache-Control
+Anti-Web HTTPD 3.0.7;Location
+WDaemon 9.6.1;Server,Content-Type,Connection
+Sun ONE Web Server 6.1;Server,Mime-Version,Content-Type,Content-Length,Expires,Date,Connection
+Apache 2.0.52;Date,Server,Vary,Cartoon,Content-Length,Keep-Alive,Connection,Content-Type
+Apache 1.3.39;Date,Server,Content-Length,Allow,Keep-Alive,Connection
+Sun ONE Web Server 6.1;Server,Date,Content-length,Allow,Connection
+Zope 2.6.0;Date,Server,DAV,Ms-Author-Via,Allow,Etag,Content-Length,X-Cache,Keep-Alive,Connection,Content-Type
+Apache 1.3.29;Date,Server,Expires,Keep-Alive,Connection,Transfer-Encoding,Content-Type
+Zope 2.9.3;Date,Server,Content-Length,DAV,Allow,Content-Type
+Zope 2.5.0;Date,Server,DAV,Ms-Author-Via,Allow,Etag,Content-Length,X-Cache,Content-Type,Keep-Alive,Connection
+Zope 2.7.6;Server,Date,Content-Length,DAV,Connection,Allow,Date
+Zope 2.8.2;Date,Server,Content-Length,DAV,Allow,Content-Type
+Zope 2.8.4;Date,Server,Content-Length,DAV,Allow,Vary,Connection,Content-Type
+Zope 2.9.6;Date,Server,Content-Length,DAV,Allow,Vary,Connection,Content-Type
+Apache 2.0.59;Date,Server,X-Powered-By,Content-Length,DAV,Connection,Allow,Content-Type
+Zope 2.6.1;Date,Server,Etag,Allow,Content-Length,Ms-Author-Via,DAV,Content-Type
+Zope 2.7.8;Date,Server,Content-Length,DAV,Allow,Content-Type
+Zope 2.10.4;Date,Server,Content-Length,DAV,Allow,Content-Type
+Zope 2.7.7;Date,Server,Content-Length,DAV,Allow,Via,Keep-Alive,Connection,Content-Type
+Apache 2.0.55;Date,Server,X-Powered-By,X-Pingback,Vary,Keep-Alive,Connection,Transfer-Encoding,Content-Type
+Zope 2.9.8;Date,Server,Content-Length,DAV,Allow,Via,Keep-Alive,Connection,Content-Type
+Zope 2.6.0;Date,Server,DAV,Ms-Author-Via,Allow,Etag,Content-Length,Via,Content-Type
+Zope 2.9.3;Date,Server,Content-Length,DAV,Allow,Keep-Alive,Connection,Content-Type
+Zope 2.6.4;Date,Server,Etag,Allow,Content-Length,Ms-Author-Via,DAV,Via,Keep-Alive,Connection,Content-Type
+Zope 2.8.6;Date,Server,Content-Length,DAV,Allow,Via,Keep-Alive,Connection,Content-Type
+Netscape Enterprise Server 3.5.1;Server,Date,Content-length,Public
+Apache 2.0.46;Date,Server,Allow,Content-Length,X-WEBSERVER,Vary,Keep-Alive,Connection,Content-Type,Content-Language
+Squid 2.5.STABLE5;Server,Mime-Version,Date,Content-Type,Content-Length,Expires,X-Squid-Error,X-Cache,Proxy-Connection
+Squid 2.5.STABLE9;Server,Mime-Version,Date,Content-Type,Content-Length,Expires,X-Squid-Error,X-Cache,X-Cache-Lookup,Proxy-Connection
+Squid 2.5.STABLE6;Server,Mime-Version,Date,Content-Type,Content-Length,Expires,X-Squid-Error,X-Cache,X-Cache-Lookup,Proxy-Connection
+Apache 2.2.6;Date,Server,X-Powered-By,Expires,Cache-Control,Pragma,Connection,Transfer-Encoding,Content-Type
+Squid 2.6.STABLE13;Server,Date,Content-Type,Content-Length,Expires,X-Squid-Error,X-Cache,X-Cache-Lookup,Via,Proxy-Connection
+Squid 2.6.STABLE4;Server,Date,Content-Type,Content-Length,Expires,X-Squid-Error,X-Cache,X-Cache,Via,Connection
+Squid 2.6.STABLE7;Server,Date,Content-Type,Content-Length,Expires,X-Squid-Error,X-Cache,X-Cache,Via,Connection
+Apache 2.0.58;Date,Server,X-Powered-By,Keep-Alive,Connection,Transfer-Encoding,Content-Type
+Apache 2.0.54;Date,Server,Allow,Vary,Keep-Alive,Connection,Transfer-Encoding,Content-Type
+Jigsaw 2.3.0-beta1;Cache-Control,Date,Allow,Content-Length,Etag,Expires,Last-Modified,Server
+Apache 2.0.50;Date,Server,Allow,Content-Length,Connection,Content-Type
+UserLand Frontier 9.0.1;Connection,Content-Length,Content-Type,Date,Server
+UserLand Frontier 9.5;Connection,Content-Length,Content-Type,Date,Server
+Apache 1.3.37;Date,Server,Last-Modified,ETag,Accept-Ranges,Content-Length,Keep-Alive,Connection,Content-Type
+Apache 1.3.27;Date,Server,Content-Length,Allow,Connection,X-Pad
+Zope 2.8.0;Date,Server,Content-Length,DAV,Allow,Connection,Content-Type
+Zope 2.7.7;Date,Server,Content-Length,DAV,Allow,Connection,Content-Type
+Zope 2.9.8;Date,Server,DAV,Allow,Content-Length,Content-Type
+Zope 2.7.7;Date,Server,Content-Length,DAV,Allow,Content-Type
+Apache 1.3.29;Date,Server,Content-Length,Allow,X-Cache,Keep-Alive,Connection,Content-Type
+nginx 0.5.30;Server,Date,Connection,Content-Length,DAV,Ms-Author-Via,Etag,Allow
+Apache 2.2.2;Date,Server,Allow,Content-Length,Content-Type,Connection
+Zope 2.7.5;Date,Server,DAV,Allow,Content-Length,Connection,Content-Type
+Zope 2.7.4;Server,Date,Content-Length,DAV,Connection,Allow,Date
+Zope 2.9.6;Date,Server,Content-Length,DAV,Allow,Vary,Content-Type
+Zope 2.7.6;Date,Server,Content-Length,DAV,Allow,Content-Type
+Microsoft IIS 6.0;Content-Length,Date,Connection,Allow,Server,Public
+Microsoft IIS 6.0;Allow,Content-Length,Server,Public,MS-Author-Via,X-Powered-By,Date
+Zeus 4.3;Server,Date,Connection,Content-Type
+nginx 0.5.32;Server,Mime-Version,Content-Type,Content-Length,Expires,Date,Connection
+Mongrel 1.0;Date,Server,Status,Cache-Control,Content-Type,Content-Length,Set-Cookie,Vary,Keep-Alive,Connection
+Oracle Application Server 10g 10.1.2.0.2;Cache-Control,Cache-Control,Content-Type,Connection,Keep-Alive,Server,Content-Length,Date,Content-Location,Allow,X-Cache
+Oracle Application Server 10g 10.1.2.0.0;Connection,Keep-Alive,Server,Content-Length,Date,Allow
+Apache 2.0.49;Date,Server,Allow,Content-Length,Keep-Alive,Connection,Content-Type
+WN Server 2.4.7;Server,Date,Allow,Last-Modified,Content-type,Content-length
+Apache 2.0.51;Date,Server,X-Powered-By,Content-Length,Connection,Content-Type
+Apache 1.3.33;Date,Server,Content-Type,X-Cache,Keep-Alive,Connection,Transfer-Encoding
+Resin 2.1.17;Date,Server,Cache-Control,Expires,Content-Type,Content-Length,Connection
+TclHttpd 3.5.1;Date,Server,Content-Type,Content-Length
+Apache 2.2.2;Date,Server,Cache-Control,Last-Modified,Vary,Content-Type,Connection
+Apache 1.3.29;Date,Server,Content-Length,Allow,Keep-Alive,Connection
+Apache 2.0.58;Date,Server,Allow,Cache-Control,Pragma,Content-Length,Cneonction,Content-Type
+Apache 1.3.34;Date,Server,X-Powered-By,Connection,Transfer-Encoding,Content-Type
+Apache 2.2.3;Date,Server,X-Powered-By,Expires,Cache-Control,Pragma,Keep-Alive,Connection,Transfer-Encoding,Content-Type
+Snap Appliance 4.0.860;Server,Content-type,Date
+Snap Appliance 3.1.603;Server,Content-type,Date
+Snap Appliance 3.4.803;Server,Content-type,Date
+Snap Appliance 4.0.830;Server,Content-type,Date
+Snap Appliance 3.4.805;Server,Content-type,Date
+Snap Appliance 4.0.854;Server,Content-type,Date
+OmniHTTPd 2.10;Content-Length,Content-Type,Date,Server
+OmniHTTPd 2.09;Content-Length,Content-Type,Date,Server
+OmniHTTPd 2.06;Content-Length,Content-Type,Date,Server
+4D WebSTAR 2.1.1;MIME-Version,Server,Message-ID,Connection,Content-type
+4D WebSTAR 3.0.2;MIME-Version,Server,Message-ID,Connection,Keep-Alive,Content-type
+BadBlue 2.4;Server,Date,Content-type,Connection,Content-Length
+BadBlue 2.7;Server,Date,Content-type,Connection,Content-Length
+BadBlue 2.6;Server,Date,Content-type,Connection,Content-Length
+Yaws 1.65;Server,Allow,Content-Length
+Yaws 1.68;Server,Allow,Content-Length
+Zyxel P-660R-D3 RomPager 4.51;Content-Type,Server,X-Cache,Connection,Proxy-Connection
+Zyxel P-2602HW-D1A RomPager 4.51;Content-Type,Server
+Zyxel P-662HW-D1 RomPager 4.51;Content-Type,Server
+Zyxel P-661H-D1 RomPager 4.51;Content-Type,Server
+Sony SNC-RZ30 NetEVI 3.03;Allow,Content-Length,Server,Connection
+Sony SNC-RZ30 NetEVI 2.24;Allow,Content-Length,Server,Connection
+Sony SNC-RZ30 NetEVI 3.01;Allow,Content-Length,Server,Connection
+Sony SNC-RZ30 NetEVI 2.06;Allow,Content-Length,Server,Connection
+Sony SNC-RZ30 NetEVI 3.10;Allow,Content-Length,Server,Connection
+Sony SNC-RZ30 NetEVI 2.05;Allow,Content-Length,Server,Connection
+Sony SNC-RZ30 NetEVI 3.14;Allow,Content-Length,Server,Connection
+Sony SNC-RZ30 NetEVI 1.09;Allow,Content-Length,Server,Connection
+Sony SNC-RZ30 NetEVI 3.02;Allow,Content-Length,Server,Connection
+Sony SNC-RZ30 NetEVI 2.13;Allow,Content-Length,Server,Connection
+Sony SNC-RZ30 NetEVI 2.05g;Allow,Content-Length,Server,Connection
+Sony SNC-RZ30 NetEVI 2.14;Allow,Content-Length,Server,Connection
+Sony SNC-RZ30 NetEVI 3.10a;Allow,Content-Length,Server,Connection
+FlexWATCH FW-3440-B;Server,Date,Pragma,Cache-Control,Content-Type
+Sony SNC-Z20 NetZoom 1.00;Allow,Content-Length,Server,Connection
+thttpd 2.19-MX;Server,Content-type,Date,Last-modified,Accept-Ranges,Connection
+webcamXP PRO 2007 3.96.000 beta;Connection,Content-Type,Server
+webcamXP PRO 2007 3.60.220;Connection,Content-Type,Server
+webcamXP PRO 2006 2.37.144;Connection,Content-Type,Server
+webcamXP PRO 2006 2.20.024;Connection,Content-Type,Server
+webcamXP PRO 2007 3.72.440;Connection,Content-Type,Server
+webcamXP PRO 2006 2.16.456x BETA;Connection,Content-Type,Server
+Apache 2.0.59;Date,Server,Allow,Content-Length,Keep-Alive,Connection,Content-Type
+Konica IP-421/7020 Allegro RomPager 2.00;Content-Length,Server,Connection
+Net2Phone Rapid Logic 1.1;Server,MIME-version,Date,Content-Type,Content-Length
+QNAP NAS-2108R 2.27.1024;Server,Content-type,Date,Last-modified,Accept-Ranges,Connection
+QNAP NAS-4010 4.2.0.0606;Server,Content-type,Date,Last-modified,Accept-Ranges,Connection
+QNAP NAS-4100 2.26.0517;Server,Content-type,Date,Last-modified,Accept-Ranges,Connection
+QNAP TS-40IT Turbo Server 1.1.0.0425;Server,Content-type,Date,Last-modified,Accept-Ranges,Connection
+QNAP GNS-8000A 4.1.4.0118;Server,Content-type,Date,Last-modified,Accept-Ranges,Connection
+QNAP TS-101 Turbo Station 1.2.0.0629;Server,Content-type,Date,Last-modified,Accept-Ranges,Connection
+thttpd 2.20b;Server,Content-type,Date,Last-modified,Accept-Ranges,Connection
+QNAP TS-209 1.1.3.1101T;Server,Content-type,Date,Last-modified,Accept-Ranges,Connection
+QNAP TS-411U 1.2.0.0531;Server,Content-type,Date,Last-modified,Accept-Ranges,Connection
+QNAP TS-209 1.1.1.0831T;Server,Content-type,Date,Last-modified,Accept-Ranges,Connection
+QNAP TS-101 2.1.0.612T;Server,Content-type,Date,Last-modified,Accept-Ranges,Connection
+QNAP TS-109 1.1.3.1101T;Server,Content-type,Date,Last-modified,Accept-Ranges,Connection
+QNAP TS-101 2.0.1.0302;Server,Content-type,Date,Last-modified,Accept-Ranges,Connection
+QNAP TS-109 1.1.2.1009T;Server,Content-type,Date,Last-modified,Accept-Ranges,Connection
+Cisco VPN 3000 Concentrator Virata EmWeb R6.2.0;Server,Content-Length,Allow
+Netopia Router Allegro RomPager 2.10;Allow,Content-Length,Server
+Ricoh Aficio 1022 Web-Server 3.0;Connection,Date,Cache-Control,Pragma,Content-Type,Content-Length,Server
+Ricoh Aficio 6002 3.53.3 Web-Server 3.0;Connection,Date,Cache-Control,Pragma,Content-Type,Content-Length,Server
+Ricoh Aficio 1060 3.53.3 Web-Server 3.0;Connection,Date,Cache-Control,Pragma,Content-Type,Content-Length,Server
+Ricoh Aficio 1045 5.23 Web-Server 3.0;Connection,Date,Cache-Control,Pragma,Content-Type,Content-Length,Server
+Linksys WVC54GC Boa 0.94.13;Date,Server,Connection,Content-Type
+Barracuda Networks Spam Firewall;Server,Content-Type,Date,Last-Modified,Accept-Ranges,Connection,Cache-Control
+Belkin Router 2.00.002;Content-Type
+Zyxel Prestige 662H-61 RomPager 4.07;Allow,Content-Length,Server
+Zyxel  ZyWALL 10W RomPager 4.07;Allow,Content-Length,Server
+Zyxel Prestige 662H-63/67 RomPager 4.07;Allow,Content-Length,Server
+SnapStream Digital Video Recorder;Server,Cache-Control,Pragma,Last-Modified,Connection,Content-Type
+Xerox DocuPrint N4025 Allegro RomPager 3.06b1;Allow,Content-Length,Server
+Apache 1.3.17;Date,Server,Content-Length,Allow,Keep-Alive,Connection
+Apache 2.0.49;Date,Server,X-Powered-By,Content-Length,Keep-Alive,Connection,Content-Type
+Dell 1710n;Allow
+Dell M5200;Allow
+Dell 3232;Allow
+Lexmark C750;Allow
+Lexmark T630;Allow
+PacketShaper httpd 1.00;Server,Cache-Control,Expires,Content-Type
+Tandberg Videoconference Management;Content-type,Content-length
+NetBotz 500 thttpd 2.25b;Server,Content-Type,Date,Last-Modified,Accept-Ranges,Connection,Cache-Control
+WallBotz 500 thttpd 2.25b;Server,Content-Type,Date,Last-Modified,Accept-Ranges,Connection,Cache-Control
+NetBotz 420 thttpd 2.25b;Server,Content-Type,Date,Last-Modified,Accept-Ranges,Connection,Cache-Control
+NetBotz 320 thttpd 2.25b;Server,Content-Type,Date,Last-Modified,Accept-Ranges,Connection,Cache-Control
+Philips NetCam 1.2.7 wg_httpd 1.0;Date,Server,Content-Type
+Philips NetCam 1.4.23 wg_httpd 1.0;Date,Server,Content-Type
+Philips NetCam 1.4.8 wg_httpd 1.0;Date,Server,Content-Type
+Philips NetCam 1.2.6 wg_httpd 1.0;Date,Server,Content-Type
+Boa 0.93.15;Date,Server,Connection,Content-Type
+Lexmark Optra S 1255;Allow
+Lexmark E323;Allow
+Boa 0.92o;Date,Server,Content-Type
+Divar 1.10.538.0;Allow,Content-Length
+Divar 1.00;Allow,Content-Length
+Divar 1.12.649.0;Allow,Content-Length
+Divar 1.11.626.0;Allow,Content-Length
+fnord 1.8a;Content-Type,Connection

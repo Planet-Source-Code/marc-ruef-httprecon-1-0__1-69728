@@ -1,0 +1,114 @@
+Apache 2.2.3;no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Microsoft IIS 7.0;private
+Apache 2.3.0;max-age=86400
+Microsoft IIS 6.0;private
+Apache 1.3.37;no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Caudium 1.4.9;no-cache, no-store, max-age=0, private, must-revalidate, proxy-revalidate
+Cherokee 0.6.0;no-cache, must-revalidate
+lighttpd 1.4.18;must-revalidate, max-age=30
+Apache 2.0.52;no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Apache 2.0.54;no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Microsoft IIS 6.0;no-cache
+Apache 2.0.46;no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Apache 2.2.3;max-age=173
+Apache 1.3.34;no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Apache 2.0.59;no-cache,no-store,max-age=0
+Apache 1.3.33;max-age=600
+Apache 1.3.37;private, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Google Web Server 2.1;private
+Apache 1.3.26;post-check=0, pre-check=0
+Apache 2.0.46;s-maxage=600
+Apache 1.3.33;private, pre-check=0, post-check=0, max-age=0
+Apache 1.3.33;no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Apache 1.3.28;max-age=0, no-cache
+Apache 1.3.34;no-cache
+Apache 2.0.52;no-cache, must-revalidate
+Jetty 6.1.1;max-age=0, no-store
+Microsoft IIS 6.0;private, max-age=0
+Sun Java System Web Server 7.0;public, max-age=1799
+Apache 2.0.46;no-cache
+Sun Java System Web Server 7.0;public, max-age=1374
+Microsoft IIS 5.0;max-age=900
+nginx 0.5.33;no-cache, must-revalidate, max-age=0
+Apache 2.0.54;max-age=86400
+Zope 2.7.5;max-age=3600
+Oracle Application Server 10g 10.1.2.2.0;max-age=0
+AOLserver 4.0.10;no-cache, no-store, private, max-age=0
+Abyss 2.5.0.0 X1;no-store, no-cache, must-revalidate
+Abyss 2.5.0.0 X2;must-revalidate
+Abyss 2.4.0.3 X2;no-cache
+and-httpd 0.99.11;max-age=691200
+firecat 1.0.0 Beta;private
+Hiawatha 6.2;no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Zeus 4.41;public,max-age=3600,no-check=3600,post-check=3600,pre-check=3600
+Roxen 2.2.213;no-cache
+LiteSpeed Web Server 3.3;no-store, no-cache, must-revalidate
+IceWarp 8.3.0;no-store, no-cache, must-revalidate
+SonicWALL CSM 3200 2.6.0.0;no-cache
+Sun ONE Web Server 6.1;max-age=7715
+Apache 2.2.4;private, must-revalidate, max-age=0
+Zope 2.6.0;public, max-age=3600
+Zope 2.5.0;max-age=3600
+Zope 2.8.4;max-age=3600
+Zope 2.9.8;max-age=1800, must-revalidate
+Apache 2.2.6;no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Jigsaw 2.3.0-beta1;max-age=86400
+Zope 2.9.8;max-age=0, private, must-revalidate
+Zope 2.9.7;max-age=0, s-maxage=3600, must-revalidate
+Zope 2.10.4;max-age=10
+Zope 2.7.4;no-cache
+Zope 2.9.6;max-age=0, private, must-revalidate
+Zope 2.7.6;max-age=3600, must-revalidate
+Apache 1.3.37;no-cache
+IBM HTTP Server 6.0.2.19;no-cache
+Apache 2.0.52;no-cache, no-store, must-revalidate
+Sun ONE Web Server 6.1;max-age=600
+nginx 0.5.32;max-age=0, no-cache, no-store
+nginx 0.6.20;no-cache
+Mongrel 1.0;no-cache
+Oracle Application Server 10g 10.1.2.0.2;max-age=0
+Resin 2.1.17;no-cache
+Apache 2.2.2;max-age=60
+BadBlue 2.4;public
+BadBlue 2.6;public
+Sony SNC-RZ30 NetEVI 3.03;no-cache
+Sony SNC-RZ30 NetEVI 2.24;no-cache
+Sony SNC-RZ30 NetEVI 3.01;no-cache
+Sony SNC-RZ30 NetEVI 2.06;no-cache
+Sony SNC-RZ30 NetEVI 3.10;no-cache
+Sony SNC-RZ30 NetEVI 2.05;no-cache
+Sony SNC-RZ30 NetEVI 3.14;no-cache
+Sony SNC-RZ30 NetEVI 1.09;no-cache
+Sony SNC-RZ30 NetEVI 3.02;no-cache
+Sony SNC-RZ30 NetEVI 2.13;no-cache
+Sony SNC-RZ30 NetEVI 2.05g;no-cache
+Sony SNC-RZ30 NetEVI 2.14;no-cache
+Sony SNC-RZ30 NetEVI 3.10a;no-cache
+FlexWATCH FW-3440-B;no-cache
+Sony SNC-Z20 NetZoom 1.00;no-cache
+thttpd 2.19-MX;no-cache
+webcamXP PRO 2007 3.96.000 beta;no-cache, must revalidate
+webcamXP PRO 2007 3.60.220;no-cache, must revalidate
+webcamXP PRO 2006 2.37.144;no-cache, must revalidate
+webcamXP PRO 2006 2.20.024;no-cache, must revalidate
+webcamXP PRO 2007 3.72.440;no-cache, must revalidate
+webcamXP PRO 2006 2.16.456x BETA;no-cache, must revalidate
+Konica IP-421/7020 Allegro RomPager 2.00;no-cache
+LANCOM DSL/I-1611 6.26.0022;no-cache
+LANCOM DSL/I-10 3.58.0006;no-cache
+LANCOM DSL/I-1611 6.02.0008;no-cache
+LANCOM DSL/I-1611 5.06.0005;no-cache
+LANCOM DSL/I-1611 6.32.0021;no-cache
+LANCOM DSL/I-1611 6.24.0012;no-cache
+LANCOM DSL/I-1611 4.02.0003;no-cache
+LANCOM DSL/I-1611 6.06.0012;no-cache
+LANCOM DSL/I-1611 4.12.0031;no-cache
+Cisco VPN 3000 Concentrator Virata EmWeb R6.2.0;no-cache
+Ricoh Aficio 1022 Web-Server 3.0;no-cache
+Ricoh Aficio 6002 3.53.3 Web-Server 3.0;no-cache
+Ricoh Aficio 1060 3.53.3 Web-Server 3.0;no-cache
+Ricoh Aficio 1045 5.23 Web-Server 3.0;no-cache
+SnapStream Digital Video Recorder;no-cache
+Apache 2.2.2;private, must-revalidate, max-age=0
+Xerox DocuPrint N4025 Allegro RomPager 3.06b1;no-cache
+PacketShaper httpd 1.00;no-cache
